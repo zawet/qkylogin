@@ -1,0 +1,179 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Microsoft YaHei, "Hiragino Sans GB W3", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+
+.qkylogin {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #1a80de;
+}
+
+.qkylogin-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 78px;
+    background: #fff;
+    padding: 0 46px;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 9;
+}
+
+.qlh-logo {
+    height: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.qlh-logo img {
+    height: 100%;
+}
+
+.qkycont {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.qkylogin-content {
+    position: absolute;
+    padding: 78px 0 0;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 8;
+    background: url("../images/bg3.png") no-repeat;
+    background-size: cover;
+    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='.bg2.png', sizingMethod='scale');
+}
+
+.qlc-form {
+    position: absolute;
+    top: 50%;
+    right: 13.92%;
+    width: 32.26%;
+    max-width: 542px;
+    min-width: 330px;
+    margin-top: -10.6%;
+}
+
+.qlc-form img {
+    max-width: 100%;
+}
+.qlc-form-title{ margin-bottom: 15px;}
+.qlc-form-subtitle {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.qlc-form-subtitle img {
+    max-width: 70%;
+}
+
+.qlc-form-inputbox {
+    width: 76%;
+    margin-left: 24%;
+    
+}
+
+div.qlc-input {
+    position: relative;
+}
+
+div.qlc-input img {
+    width: 27px;
+    height: 31px;
+    position: absolute;
+    top: 15px;
+    left: 5px;
+    display: block;
+}
+
+input.qlc-input {
+    height: 68px;
+    line-height: 68px;
+    font-size: 20px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: none;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 40px;
+    color: #fff;
+    outline: none;
+}
+
+.qlc-button {
+    width: 50%;
+    border-radius: 60px;
+    height: 60px;
+    text-align: center;
+    margin: 50px auto 0;
+    color: #fff;
+    font-size: 22px;
+    border: 3px solid #fff;
+    background: none;
+    display: block;
+    cursor: pointer;
+    box-shadow: 0 0 12px #fff;
+}
+
+.qlc-button:hover {
+    box-shadow: 0 0 18px #fff;
+}
+
+.qlc-a {
+    position: absolute;
+    right: 0;
+    bottom: 3px;
+    color: #ddd;
+    text-decoration: inherit;
+    font-size: 16px;
+}
+
+.qlc-a:hover {
+    color: #fff;
+}
+
+.qkylogin-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.048);
+    text-align: center;
+    padding: 10px 0;
+    z-index: 9;
+    font-size: 15px;
+    color: #e8e8e1;
+}
+
+input:：-webkit-input-placeholder {
+    /* WebKit browsers*/
+    color: #fff;
+}
+
+input:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18*/
+    color: #fff;
+}
+
+input:：-moz-placeholder {
+    /* Mozilla Firefox 19+*/
+    color: #fff;
+}
+
+input:-ms-input-placeholder {
+    /* Internet Explorer 10+*/
+    color: #fff;
+}
