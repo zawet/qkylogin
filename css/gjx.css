@@ -1,8 +1,8 @@
 .qkylogin-header { background: rgba(255,255,255,0.8);}
 .qkylogin-content {
-    background: url("../images/bg8.png") no-repeat;
+    background: url("../images/bg9.png") no-repeat;
     background-size: cover;
-    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='.bg8.png', sizingMethod='scale');
+    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='.bg9.png', sizingMethod='scale');
 }
 .qlc-form {left: 13.92%;margin-top: -15%;}
 .qlc-form-inputbox { margin-left: 0;}
