@@ -1,0 +1,8 @@
+
+.qkylogin-content {
+    background: url("../images/bgxg2.png") no-repeat;
+    background-size: cover;
+    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='.bgxg2.png', sizingMethod='scale');
+}
+
+.qkylogin-footer {background:#7abced;padding: 10px 0; color: #fff;}

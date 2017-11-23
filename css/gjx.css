@@ -4,7 +4,8 @@
     background-size: cover;
     filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='.bg9.png', sizingMethod='scale');
 }
-.qlc-form {left: 13.92%;margin-top: -15%;}
+.qlc-form {left: 13.92%; margin-top: -12%;}
 .qlc-form-inputbox { margin-left: 0;}
+.qlc-form-title{ margin-bottom: 20px;}
 .qlc-a {color: #f1f1f1; right:auto; left: 0;}
 .qkylogin-footer {background:#6b9ac5;padding: 15px 0;}
