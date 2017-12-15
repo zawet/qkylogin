@@ -1,0 +1,25 @@
+
+.qkylogin-content {
+    background: url("../images/ydbg3.png") no-repeat 0 0;
+    background-size: 100%;
+    filter: progid: DXImageTransform.Microsoft.AlphaImageLoader(src='.ydbg3.png', sizingMethod='scale');
+}
+.qkylogin-header{ background:#fff;}
+.qlc-form-title{ text-align: center; width:30%; margin: 0 auto 15px;}
+.qkylogin {background: #fff;}
+.qkylogin-footer {background:url("../images/hbg.png");padding: 10px 0; color: #fff; font-size: 13px;}
+.qlc-form { 
+     min-width: auto;
+    padding:30px 0;
+    box-sizing: border-box;
+    background:url("../images/loginbg.png") no-repeat 0 0;
+     background-size: 100% 100%;
+    right: 50%;
+    width: 30%;
+    margin-top: -6%;
+    margin-right: -15%;
+}
+.qlc-form-inputbox{ width: 80%; margin:0 auto;}
+input.qlc-input{ height:50px; line-height: 50px;}
+div.qlc-input img{ width: 20px; height: 24px; top:12px;}
+.qlc-button{ margin-top: 30px; height: 50px;}
